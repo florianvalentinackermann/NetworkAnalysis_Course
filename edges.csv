@@ -1,0 +1,5 @@
+Source,Target,Edge_Data,Weight
+1,2,{'weight': 0.5},0.5
+2,3,{'weight': 0.8},0.8
+3,4,{'weight': 1.2},1.2
+4,1,{'weight': 0.7},0.7
