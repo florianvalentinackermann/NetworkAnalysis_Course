@@ -2,3 +2,4 @@ This repository is about the course "Data Science and Complex Networks Analysis"
 
 STEP2035_networkanalysis.py: Python code to visualize and measure the STEP 2035 Swiss passenger railway project
 
+STEP2035_ComplexNetwork_FlorianAckermann.pdf: The writing of the project
